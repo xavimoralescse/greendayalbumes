@@ -1,0 +1,61 @@
+.contenedor
+{
+   margin: 50px;
+   display: flex;
+   gap: left;
+   background-color: rgb(104, 104, 104);
+}
+
+.imgdiscos
+{
+   width: 11cm;
+   height: 11cm;
+
+}
+
+.album{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+   text-align: left;
+   margin-left: 45px;
+   color: white;
+}
+.Descripcion
+{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   margin-right: 45px;
+   text-align: justify;
+   color: white;
+   margin-left: 45px;
+}
+
+.musicstreaming
+{
+   display: flex;
+   margin-left: 45px;
+   column-gap: 20px;
+}
+
+.Spotify
+{
+   padding: 9px;
+   background-color: #1DB954;
+   border: none;
+   color: white;
+}
+
+.Deezer
+{
+   padding: 5px;
+   background-color: white;
+   color: black;
+}
+
+.YTMusic
+{
+   padding: 5px;
+   background-color: red;
+   color: white;
+   border: none;
+}
